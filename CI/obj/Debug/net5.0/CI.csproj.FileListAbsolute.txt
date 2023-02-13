@@ -38,3 +38,7 @@ C:\CI Platform\CI\CI\obj\Debug\net5.0\ref\CI.dll
 C:\CI Platform\CI\CI\obj\Debug\net5.0\CI.pdb
 C:\CI Platform\CI\CI\obj\Debug\net5.0\CI.genruntimeconfig.cache
 C:\CI Platform\CI\CI\obj\Debug\net5.0\CI.csproj.CopyComplete
+C:\CI Platform\CI\CI\obj\Debug\net5.0\Razor\Views\Login\Login.cshtml.g.cs
+C:\CI Platform\CI\CI\obj\Debug\net5.0\Razor\Views\Login\ForgotPassword.cshtml.g.cs
+C:\CI Platform\CI\CI\obj\Debug\net5.0\Razor\Views\Login\Register.cshtml.g.cs
+C:\CI Platform\CI\CI\obj\Debug\net5.0\Razor\Views\Login\ResetPassword.cshtml.g.cs
